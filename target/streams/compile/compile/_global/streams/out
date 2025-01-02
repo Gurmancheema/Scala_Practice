@@ -1,4 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0mD:\scala_project\myfirstscalaproject\src\main\scala\int_question.scala:44:17: org.apache.spark.sql.DataFrameWriter[org.apache.spark.sql.Row] does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0msecond_ans.write("header","true").csv("data/int_answers")[0m
-[0m[[0m[31merror[0m] [0m[0m                ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.3); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
