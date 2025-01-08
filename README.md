@@ -19,3 +19,10 @@
         changed the string datatype into datetime timestamp data type for date columns
     4. Aggregation statistics functions
         learnt to use groupby(), orderBy() & count() methods along with other descriptive statistical methods like min(), max(), sum(), and avg().
+
+### Concepts learned on 07-01-2025
+    1. Practiced SQL like queries in scala using questions from the book
+    2. Learnt how to use combination of filter method & groupby method
+    3. Learnt how to extract week from the datetime data type column
+    4. Learnt how to save the dataframes into parquet files or SQLtables
+    5. Quite a complex process of saving the dataframes in Windows environment
